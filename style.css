@@ -1,0 +1,18 @@
+body{
+background-image: url("background.jpg") ; 
+-webkit-background-size: cover;
+-moz-background-size: cover;
+-o-background-size: cover;
+background-size: cover;
+font-family: 'Source Code Pro', monospace;
+}
+h1{
+    text-align: center;
+}
+
+section{
+    text-align: center;
+    margin: 20%;
+    margin-top: 10%;
+}
+
